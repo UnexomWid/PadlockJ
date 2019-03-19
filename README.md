@@ -12,7 +12,7 @@ PadlockJ is a project by [UnexomWid](http://unexomwid.github.io). It is licensed
 
 >Note: versions with the suffix **R** are considered stable releases, while those with the suffix **D** are considered unstable.
 
-*None*.
+[v1.1R](https://github.com/UnexomWid/PadlockJ/releases/tag/v1.1R) - March 19, 2019
 
 # Usage
 
