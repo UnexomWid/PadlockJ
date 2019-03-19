@@ -16,7 +16,7 @@ PadlockJ is a project by [UnexomWid](http://unexomwid.github.io). It is licensed
 
 # Usage
 
-PadlockJ lets you encrypt one-line text message with a *case sensitive* key. After encryption, the message is encoded with `base64`, so you can safely send it via E-Mail or other means.
+PadlockJ lets you encrypt a one-line text message with a *case sensitive* key. After encryption, the message is encoded with `base64`, so you can safely send it via E-Mail or other means.
 
 To decrypt a message, enter the `base64` encoded encrypted message, and the same key that was used for encryption. The decrypted message will be the same as the original.
 
