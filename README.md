@@ -1,12 +1,12 @@
-# About
+# About <a href="https://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html"><img align="right" src="https://img.shields.io/badge/Java-8-B07219?logo=java" alt="Java 8" /></a>
 
 PadlockJ is a text encryption application written in Java that uses the AES-128 algorithm.
 
 ![UI](img/ui.png)
 
-# License
+# License <a href="https://github.com/UnexomWid/PadlockJ/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
 
-PadlockJ is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+PadlockJ was created by [UnexomWid](https://uw.exom.dev). It is licensed under the [MIT](https://github.com/UnexomWid/PadlockJ/blob/master/LICENSE) license.
 
 # Releases
 
